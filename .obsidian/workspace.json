@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "15243f3e4b132218",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc168c54f3df2e20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b003a5d17a84743e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosc367/Lecture 2/Searching the State Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c18d1aed6b872d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosc367/Lecture 2/Searching the State Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c27b29cda88dd64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosc367/Lecture 2/Pruning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6ea6b99140b2574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosc367/Lecture 2/Searching the State Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94b1e031a15efa1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosc367/Lecture 1/Tracing Frontiers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21182738a3b1ab1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENEL301/ENEL Week 2/Organising.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff6e0966591ec238",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e3cad198824b54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0879454cde62909c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47fc8b25a23a22e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "781b5417285c2bb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ed1103f92414261",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7370935eb6116ce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dfc764b996d8cef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bd7f9ad76fc233e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ENEL301/ENEL Week 2/Organising.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e25f38363cbdb625",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ENEL301/ENEL Week 2/Organising.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38aff6c6f407b447",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37ec4a26e794044a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ENEL301/ENEL Week 2/Organising.md"
+              }
+            }
+          },
+          {
+            "id": "66b9c9e83cf477fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66b9c9e83cf477fb",
+  "lastOpenFiles": [
+    "ObsidianVault",
+    "csse/users/dne33/Documents/Obsidian Vault/Clone",
+    "csse/users/dne33/Documents/Obsidian Vault",
+    "csse/users/dne33/Documents",
+    "csse/users/dne33",
+    "csse/users",
+    "csse",
+    "Clone",
+    "Untitled Folder",
+    "Pasted image 20230804110258.png",
+    "ENEL301/ENEL Week 2/People in Organisations.md",
+    "ENEL301/ENEL Week 2/Organising.md",
+    "Pasted image 20230804100712.png",
+    "Pasted image 20230804095918.png",
+    "Pasted image 20230804095601.png",
+    "Pasted image 20230804094225.png",
+    "Pasted image 20230804094026.png",
+    "ENEL301/ENEL Week 1/Classical Approaches to Management.md",
+    "ENEL301/ENEL301 - Engineering Management.md",
+    "A* Search Strategy.md",
+    "Cosc367/Lecture 1/LCFS.md",
+    "Cosc367/Lecture 2/Searching the State Space.md",
+    "Cosc367/Lecture 2/Pruning.md",
+    "Cosc367/Lecture 2/Tracing Frontiers With Pruning.md",
+    "Cosc367/Lecture 2/Pasted image 20230730134715.png",
+    "Cosc367/Lecture 1/General Graphs.md",
+    "The Problem with cycles and multiple paths.md",
+    "ENEL301/ENEL Week 2/Pasted image 20230726082714.png",
+    "ENEL301/ENEL Week 2/Pasted image 20230726082926.png",
+    "Cosc367/Lecture 1/Tracing Frontiers.md",
+    "Cosc367/Lecture 1/BFS.md",
+    "Cosc367/Lecture 1/Frontier.md",
+    "Cosc367/Lecture 1/DFS, BFS, and LCFS.md",
+    "Cosc367/Lecture 1/General Purpose Search Algorithm.md",
+    "Cosc367/Lecture 1/Lecture 1 Searching the State Space.md",
+    "Cosc367/Lecture 1/Explicit vs Implicit graphs.md",
+    "Cosc367/Lecture 2",
+    "ENEL301/ENEL Week 1/Intro to Management for Engineers.md",
+    "ENEL301/ENEL Week 2",
+    "Classical Approaches to Management.md",
+    "ENEL301/Untitled.md",
+    "SENG368/SENG368 - Humans and Computers.md",
+    "Cosc367/COSC367  - AI.md",
+    "Cosc367/Lecture 1/DFS.md",
+    "Cosc367/Lecture 1/Pasted image 20230723125559.png",
+    "Cosc367/Lecture 1/Directed graphs.md"
+  ]
+}

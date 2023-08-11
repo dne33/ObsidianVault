@@ -1,0 +1,4 @@
+#Algorithms
+[[DFS]]
+[[BFS]]
+[[LCFS]]
