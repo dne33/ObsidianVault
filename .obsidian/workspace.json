@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/ENEL Week 2/Organising.md",
+                "file": "Cosc367/Lecture 2/A* Search Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/ENEL Week 2/Organising.md",
+                "file": "Cosc367/Lecture 2/A* Search Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/ENEL Week 2/Organising.md",
+                "file": "Cosc367/Lecture 2/A* Search Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/ENEL Week 2/Organising.md"
+                "file": "Cosc367/Lecture 2/A* Search Strategy.md"
               }
             }
           },
@@ -223,8 +223,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66b9c9e83cf477fb",
+  "active": "21182738a3b1ab1a",
   "lastOpenFiles": [
+    "Pasted image 20230812114737.png",
+    "ENEL301/Pasted image 20230804110258.png",
+    "ENEL301/Pasted image 20230804100712.png",
+    "ENEL301/Pasted image 20230804095918.png",
+    "ENEL301/Pasted image 20230804095601.png",
+    "ENEL301/Pasted image 20230804094225.png",
+    "ENEL301/Pasted image 20230804094026.png",
+    "ENEL301/ENEL Week 2/Organising.md",
     "ObsidianVault",
     "csse/users/dne33/Documents/Obsidian Vault/Clone",
     "csse/users/dne33/Documents/Obsidian Vault",
@@ -234,17 +242,10 @@
     "csse",
     "Clone",
     "Untitled Folder",
-    "Pasted image 20230804110258.png",
     "ENEL301/ENEL Week 2/People in Organisations.md",
-    "ENEL301/ENEL Week 2/Organising.md",
-    "Pasted image 20230804100712.png",
-    "Pasted image 20230804095918.png",
-    "Pasted image 20230804095601.png",
-    "Pasted image 20230804094225.png",
-    "Pasted image 20230804094026.png",
     "ENEL301/ENEL Week 1/Classical Approaches to Management.md",
     "ENEL301/ENEL301 - Engineering Management.md",
-    "A* Search Strategy.md",
+    "Cosc367/Lecture 2/A* Search Strategy.md",
     "Cosc367/Lecture 1/LCFS.md",
     "Cosc367/Lecture 2/Searching the State Space.md",
     "Cosc367/Lecture 2/Pruning.md",
@@ -263,7 +264,6 @@
     "Cosc367/Lecture 1/Explicit vs Implicit graphs.md",
     "Cosc367/Lecture 2",
     "ENEL301/ENEL Week 1/Intro to Management for Engineers.md",
-    "ENEL301/ENEL Week 2",
     "Classical Approaches to Management.md",
     "ENEL301/Untitled.md",
     "SENG368/SENG368 - Humans and Computers.md",
