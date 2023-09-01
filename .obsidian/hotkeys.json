@@ -1,3 +1,11 @@
 {
-  "file-explorer:new-file-in-new-pane": []
+  "file-explorer:new-file-in-new-pane": [],
+  "companion:toggle": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "CapsLock"
+    }
+  ]
 }
