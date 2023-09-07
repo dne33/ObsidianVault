@@ -47,6 +47,14 @@
 ## What makes actions right or wrong
 
 ### [[Rule-Based thinking (Deontology)]]
-### [[Ends‐Based Thinking (Teleology)]]
-
+**Absolutist**
+- The belief that an act can be judged moral if it is the right thing to do, regardless of the consequences
+- **Do the right thing**
+### [[Ends‐Based Thinking (Teleology)]] 
+**Flexible**
+- The belief that an act can be judged moral or immoral depending on its **consequences**
+- **Do the most good (the ends justifies the means)**
 ### [[Virtues‐Based Thinking]]
+**Absolutist**
+- The belief that an act can be judged moral if the intent of the does is to act as a virtuous person
+- **Be a good person**
