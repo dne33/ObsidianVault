@@ -58,3 +58,8 @@
 **Absolutist**
 - The belief that an act can be judged moral if the intent of the does is to act as a virtuous person
 - **Be a good person**
+### The “Prima Facie” Duties Framework
+- Fidelity
+	- Keep promises and don't tell lies
+-  Reparation
+- 
