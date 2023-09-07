@@ -12,8 +12,7 @@
 - Obey the "Word of god" - Which god
 - Obey the law - The baseline
 # What are the rules (Currently)
-- Rule: Follow the law 
-- Rule: Obey “universal” laws 
+
 ### Rule‐Based Thinking: Rules about Rights
 Rule: People have fundamental rights that other people have a duty to respect (Rights Ethics) 
 ###### Examples:
@@ -45,6 +44,23 @@ Rule: People have fundamental rights that other people have a duty to 
 - Shortcomings
 	- Its not always possible to be "fair" to all involved
 
-- Rule: Treat others as you would wish to be treated (the  Golden Rule) 
+
+### Professional Codes of Ethics
 - Rule: Follow your professional code of ethics 
+###### All engineering professional bodies in Aotearoa NZ and internationally  have codes of ethics that all members must follow: 
+- Engineering NZ Code of Ethical Conduct 
+- IEEE (Institute of Electrical and Electronics Engineers) Code of Ethics 
+- ACM/IEEE Software Engineering Code of Ethics 
+- IET (Institution of Engineering and Technology) Rules of Conduct (UK)  
+- EngAust Code of Ethics and Guidelines on Professional Conduct (AUS) 
+- RAE Statement of Ethical Principles (UK Royal Academy of Engineering) 
+- ASCE Code of Ethics (American Society of Civil Engineers) 
+- AIChE Code of Ethics (American Institute of Chemical Engineers) 
+- ASME Code of Ethics (American Society of Mechanical Engineers)
+
+
+
+- Rule: Follow the law 
+- Rule: Obey “universal” laws 
+- Rule: Treat others as you would wish to be treated (the  Golden Rule) 
 - Rule: Obey company/organisational policies

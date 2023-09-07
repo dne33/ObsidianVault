@@ -20,13 +20,14 @@
             }
           },
           {
-            "id": "46469d955d87ec1d",
+            "id": "a2db7d38dbc8444c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "Rule-Based thinking (Deontology).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rule-Based thinking (Deontology).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rule-Based thinking (Deontology).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rule-Based thinking (Deontology).md"
+              }
             }
           },
           {
@@ -170,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46469d955d87ec1d",
+  "active": "a2db7d38dbc8444c",
   "lastOpenFiles": [
-    "Rule-Based thinking (Deontology).md",
     "ENEL301/Module 3 Ethics/Lecture 1.md",
+    "Rule-Based thinking (Deontology).md",
     "Pasted image 20230904123614.png",
     "Pasted image 20230904122305.png",
     "ENEL301/Module 3 Ethics/Lecture 3.md",
