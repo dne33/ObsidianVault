@@ -62,4 +62,13 @@
 - Fidelity
 	- Keep promises and don't tell lies
 -  Reparation
+	- fix wrong doings
+- Gratitude
+	- be grateful to parents and benefactors
+- Justice
+	- Beyond the letter of the law
+- Beneficence 
+	- Do good if you can
+- Self-improvement 
+	- Act in a way that promotes your own self interest
 - 
