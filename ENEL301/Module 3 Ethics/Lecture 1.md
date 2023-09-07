@@ -71,4 +71,14 @@
 	- Do good if you can
 - Self-improvement 
 	- Act in a way that promotes your own self interest
-- 
+- Non-maleficence
+	- Do not injure/hurt others (Mentally, Physically etc)\
+### Weinstein’s Five Ethical Principles
+- Do no harm
+	- Prevent harm
+- Make things better
+- Respect others
+- Be fair
+- Be compassionate
+### Tests for Evaluating Actions
+![[Pasted image 20230908111544.png]]
