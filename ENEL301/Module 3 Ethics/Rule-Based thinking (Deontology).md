@@ -70,7 +70,9 @@ Rule: People have fundamental rights that other people have a duty to 
 - Shortcomings
 	- Assumes your needs and wants are the same as others
 	- Does not distinguish between competing stakeholders
-**<big>Treat people the way **They** wish to be treated.</big>**
+**<big>Treat people the way THEY wish to be treated.</big>
+
+
 
 
 	

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/Lecture 1.md",
+                "file": "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rule-Based thinking (Deontology).md",
+                "file": "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rule-Based thinking (Deontology).md",
+                "file": "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rule-Based thinking (Deontology).md",
+                "file": "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rule-Based thinking (Deontology).md"
+                "file": "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md"
               }
             }
           },
@@ -175,12 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "486d5f42eabd3169",
+  "active": "c6ea6b99140b2574",
   "lastOpenFiles": [
+    "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md",
+    "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md",
     "ENEL301/Module 3 Ethics/Lecture 1.md",
-    "Rule-Based thinking (Deontology).md",
-    "Pasted image 20230904123614.png",
-    "Pasted image 20230904122305.png",
+    "ENEL301/Module 3 Ethics/Pasted image 20230904123614.png",
+    "ENEL301/Module 3 Ethics/Pasted image 20230904122305.png",
     "ENEL301/Module 3 Ethics/Lecture 3.md",
     "ENEL301/Module 3 Ethics/Lecture 2.md",
     "ENEL301/ENEL Week 1/Classical Approaches to Management.md",
@@ -191,7 +191,7 @@
     "Cosc367/Lecture 2/Searching the State Space.md",
     "ENEL301/ENEL301 - Engineering Management.md",
     "Cosc367/Lecture 2/A* Search Strategy.md",
-    "Pasted image 20230812114737.png",
+    "ENEL301/Module 3 Ethics/Pasted image 20230812114737.png",
     "ENEL301/Pasted image 20230804110258.png",
     "ENEL301/Pasted image 20230804100712.png",
     "ENEL301/Pasted image 20230804095918.png",
@@ -221,7 +221,6 @@
     "Cosc367/Lecture 1/Lecture 1 Searching the State Space.md",
     "Cosc367/Lecture 1/Explicit vs Implicit graphs.md",
     "Classical Approaches to Management.md",
-    "ENEL301/Untitled.md",
-    "SENG368/SENG368 - Humans and Computers.md"
+    "ENEL301/Untitled.md"
   ]
 }
