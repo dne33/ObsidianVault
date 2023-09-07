@@ -63,4 +63,9 @@ Rule: People have fundamental rights that other people have a duty to 
 - Rule: Follow the law 
 - Rule: Obey “universal” laws 
 - Rule: Treat others as you would wish to be treated (the  Golden Rule) 
+### Company Policy
 - Rule: Obey company/organisational policies
+ - A requirement of your employment. Typical Aotearoa NZ engineering  company examples are: 
+	 - WSP Opus  https://www.wsp.com/en‐US/who‐we‐are/corporate‐responsibility/ethics‐integrity 
+	 - Meridian Energy  https://www.meridianenergy.co.nz/assets/Investors/Governance/Policies/Code‐of‐Conduct‐APPROVED‐27‐May‐2020.pdf 
+	 - Fisher and Paykel Healthcare  https://www.fphcare.com/nz/our‐company/sustainability/ethics‐and‐legal‐compliance/
