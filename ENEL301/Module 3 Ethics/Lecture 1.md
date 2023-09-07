@@ -49,4 +49,4 @@
 [[Rule-Based thinking (Deontology)]]
 [[Ends‐Based Thinking (Teleology)]]
 
-### Virtues‐Based Thinking
+[[Virtues‐Based Thinking]]

@@ -1,0 +1,2 @@
+- *Acts are ethical if they are what **Virtuous** persons would do in the same circumstances.*
+	- A virtuous person is what we consifd
