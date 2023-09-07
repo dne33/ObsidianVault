@@ -64,8 +64,16 @@ Rule: People have fundamental rights that other people have a duty to 
 - Rule: Obey “universal” laws 
 ### The Golden Rule 
 - Rule: Treat others as you would wish to be treated (the  Golden Rule) 
-	- "None of you \[truly] believes until he wishes for his brother what he wishes for himself"
-		- 40 Hadith Nawawi 13
+	- "None of you \[truly] believes until he wishes for his brother what he wishes for himself"<sub>40 Hadith Nawawi 13</sub>
+	- "Do to others as you would have them do to you" <sub>Luke 6:31, Matthew 7:12</sub>
+	- "This is the sum of Dharma \[duty]: do naught unto others which would cause you pain if done to you" <sub>Mahabharata 5:1517</sub>
+- Shortcomings
+	- Assumes your needs and wants are the same as others
+	- Does not distinguish between competing stakeholders
+**<big>Treat people the way **They** wish to be treated.</big>**
+
+
+	
 ### Company Policy
 - Rule: Obey company/organisational policies
  - A requirement of your employment. Typical Aotearoa NZ engineering  company examples are: 
