@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/Virtues‐Based Thinking.md",
+                "file": "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md"
+              }
             }
           },
           {
@@ -170,33 +173,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66b9c9e83cf477fb",
+  "active": "540620624488a169",
   "lastOpenFiles": [
-    "ENEL301/ENEL301 Board.md",
-    "ENEL301/Module 3 Ethics/Virtues‐Based Thinking.md",
-    "ENEL301/Module 3 Ethics/Lecture 1.md",
-    "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md",
-    "ENEL301/Module 3 Ethics/Pasted image 20230908111544.png",
-    "ENEL301/Module 3 Ethics/Lecture 3.md",
-    "ENEL301/ENEL Week 2/People in Organisations.md",
-    "ENEL301/ENEL Week 2/Organising.md",
+    "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
+    "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
+    "ENEL301/Images/Pasted image 20230908111544.png",
+    "ENEL301/Images/Pasted image 20230904123614.png",
+    "ENEL301/Images/Pasted image 20230904122305.png",
+    "ENEL301/Images/Pasted image 20230804094026.png",
+    "ENEL301/Images/Pasted image 20230804110258.png",
+    "ENEL301/Images",
+    "ENEL301/Images/Pasted image 20230804100712.png",
+    "ENEL301/Images/Pasted image 20230804095918.png",
+    "ENEL301/Images/Pasted image 20230804095601.png",
+    "ENEL301/Images/Pasted image 20230804094225.png",
+    "Cosc367/Pasted image 20230812114737.png",
     "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md",
-    "ENEL301/Module 3 Ethics/Pasted image 20230904123614.png",
-    "ENEL301/Module 3 Ethics/Pasted image 20230904122305.png",
-    "ENEL301/Module 3 Ethics/Lecture 2.md",
-    "ENEL301/ENEL Week 1/Classical Approaches to Management.md",
+    "ENEL301/Module 3 Ethics/1. Thinking Ethically.md",
+    "ENEL301/Module 3 Ethics/Thinking Ethically.md",
+    "ENEL301/Module 3 Ethics/Virtues‐Based Thinking.md",
+    "ENEL301/ENEL301 Board.md",
+    "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md",
+    "ENEL301/Module 2 Management/People in Organisations.md",
+    "ENEL301/Module 2 Management/Organising.md",
+    "ENEL301/Module 1 Professional/Classical Approaches to Management.md",
     "ENEL301/Module 3 Ethics",
-    "ENEL301/ENEL Week 1/Intro to Management for Engineers.md",
+    "ENEL301/Module 1 Professional/Intro to Management for Engineers.md",
     "Cosc367/Lecture 2/Searching the State Space.md",
     "ENEL301/ENEL301 - Engineering Management.md",
     "Cosc367/Lecture 2/A* Search Strategy.md",
-    "ENEL301/Module 3 Ethics/Pasted image 20230812114737.png",
-    "ENEL301/Pasted image 20230804110258.png",
-    "ENEL301/Pasted image 20230804100712.png",
-    "ENEL301/Pasted image 20230804095918.png",
-    "ENEL301/Pasted image 20230804095601.png",
-    "ENEL301/Pasted image 20230804094225.png",
-    "ENEL301/Pasted image 20230804094026.png",
     "ObsidianVault",
     "csse/users/dne33/Documents/Obsidian Vault/Clone",
     "csse/users/dne33/Documents/Obsidian Vault",
@@ -205,7 +210,6 @@
     "csse/users",
     "csse",
     "Clone",
-    "Untitled Folder",
     "Cosc367/Lecture 1/LCFS.md",
     "Cosc367/Lecture 2/Pruning.md",
     "Cosc367/Lecture 2/Tracing Frontiers With Pruning.md",
@@ -215,7 +219,6 @@
     "Cosc367/Lecture 1/BFS.md",
     "Cosc367/Lecture 1/Frontier.md",
     "Cosc367/Lecture 1/DFS, BFS, and LCFS.md",
-    "Cosc367/Lecture 1/General Purpose Search Algorithm.md",
-    "Cosc367/Lecture 1/Lecture 1 Searching the State Space.md"
+    "Cosc367/Lecture 1/General Purpose Search Algorithm.md"
   ]
 }

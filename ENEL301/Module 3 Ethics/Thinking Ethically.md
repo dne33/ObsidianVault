@@ -20,9 +20,9 @@
 - What character a person ***ought*** to be
 - What values and morals a person ***ought*** to adopt
 ### Factors influencing ethics in the workplace
-- [[Lecture 1#The Person|The Person]]
-- [[Lecture 1#The Environment|The Environment]]
-- [[Lecture 1#The Organisation| The Organisation]]
+- [[Thinking Ethically#The Person|The Person]]
+- [[Thinking Ethically#The Environment|The Environment]]
+- [[Thinking Ethically#The Organisation| The Organisation]]
 ![[Pasted image 20230904122305.png|400]]
 
 ### The Person 
