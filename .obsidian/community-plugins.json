@@ -8,7 +8,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "recent-files-obsidian",
   "obsidian-git",
-  "companion",
   "obsidian-html-tags-autocomplete",
-  "obsidian-codemirror-options"
+  "obsidian-codemirror-options",
+  "obsidian-completr"
 ]
