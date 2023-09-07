@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtues‐Based Thinking.md",
+                "file": "ENEL301/Module 3 Ethics/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtues‐Based Thinking.md",
+                "file": "ENEL301/Module 3 Ethics/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtues‐Based Thinking.md"
+                "file": "ENEL301/Module 3 Ethics/Lecture 1.md"
               }
             }
           },
@@ -187,10 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "540620624488a169",
+  "active": "c6ea6b99140b2574",
   "lastOpenFiles": [
-    "ENEL301/Module 3 Ethics/Lecture 1.md",
     "Virtues‐Based Thinking.md",
+    "ENEL301/Module 3 Ethics/Lecture 1.md",
     "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md",
     "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md",
     "ENEL301/Module 3 Ethics/Pasted image 20230904123614.png",

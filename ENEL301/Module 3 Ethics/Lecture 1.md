@@ -46,7 +46,7 @@
 ![[Pasted image 20230904123614.png|200]]
 ## What makes actions right or wrong
 
-[[Rule-Based thinking (Deontology)]]
-[[Ends‐Based Thinking (Teleology)]]
+### [[Rule-Based thinking (Deontology)]]
+### [[Ends‐Based Thinking (Teleology)]]
 
-[[Virtues‐Based Thinking]]
+### [[Virtues‐Based Thinking]]
