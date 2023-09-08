@@ -8,25 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "540620624488a169",
+            "id": "486d5f42eabd3169",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
+                "file": "ENEL301/Law/1. Law in NZ.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "486d5f42eabd3169",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "ENEL301/ENEL301 Board.md",
-                "staged": false
               }
             }
           }
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
+                "file": "ENEL301/Law/1. Law in NZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
+                "file": "ENEL301/Law/1. Law in NZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md"
+                "file": "ENEL301/Law/1. Law in NZ.md"
               }
             }
           },
@@ -173,14 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "540620624488a169",
+  "active": "486d5f42eabd3169",
   "lastOpenFiles": [
+    "ENEL301/Law/1. Law in NZ.md",
+    "ENEL301/Law",
+    "ENEL301/Untitled.md",
+    "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
     "ENEL301/Module 3 Ethics/1. Thinking Ethically.md",
     "ENEL301/Module 3 Ethics/1. Thinking Ethically.md",
     "ENEL301/Module 3 Ethics/Virtues‐Based Thinking.md",
     "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md",
     "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md",
-    "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
     "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
     "ENEL301/Images/Pasted image 20230908111544.png",
     "ENEL301/Images/Pasted image 20230904123614.png",
@@ -209,7 +201,6 @@
     "csse/users/dne33",
     "csse/users",
     "csse",
-    "Clone",
     "Cosc367/Lecture 1/LCFS.md",
     "Cosc367/Lecture 2/Pruning.md",
     "Cosc367/Lecture 2/Tracing Frontiers With Pruning.md",
@@ -218,7 +209,6 @@
     "Cosc367/Lecture 1/Tracing Frontiers.md",
     "Cosc367/Lecture 1/BFS.md",
     "Cosc367/Lecture 1/Frontier.md",
-    "Cosc367/Lecture 1/DFS, BFS, and LCFS.md",
-    "Cosc367/Lecture 1/General Purpose Search Algorithm.md"
+    "Cosc367/Lecture 1/DFS, BFS, and LCFS.md"
   ]
 }
