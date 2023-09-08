@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/Law/1. Law in NZ.md",
+                "file": "ENEL301/Law/Working in Industry.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/Law/1. Law in NZ.md",
+                "file": "ENEL301/Law/Working in Industry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/Law/1. Law in NZ.md",
+                "file": "ENEL301/Law/Working in Industry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/Law/1. Law in NZ.md"
+                "file": "ENEL301/Law/Working in Industry.md"
               }
             }
           },
@@ -164,7 +164,10 @@
   },
   "active": "486d5f42eabd3169",
   "lastOpenFiles": [
-    "ENEL301/Law/1. Law in NZ.md",
+    "ENEL301/Law/Intellectual Property.md",
+    "ENEL301/Law/Working in Industry.md",
+    "ENEL301/Law/Marketing Concepts.md",
+    "ENEL301/Law/Law in NZ.md",
     "ENEL301/Law",
     "ENEL301/Untitled.md",
     "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
@@ -206,9 +209,6 @@
     "Cosc367/Lecture 2/Tracing Frontiers With Pruning.md",
     "Cosc367/Lecture 1/General Graphs.md",
     "The Problem with cycles and multiple paths.md",
-    "Cosc367/Lecture 1/Tracing Frontiers.md",
-    "Cosc367/Lecture 1/BFS.md",
-    "Cosc367/Lecture 1/Frontier.md",
-    "Cosc367/Lecture 1/DFS, BFS, and LCFS.md"
+    "Cosc367/Lecture 1/Tracing Frontiers.md"
   ]
 }
