@@ -59,4 +59,19 @@ NZ CIC (Construction Industry Council) Guidelines.
 - Check minutes and actions are accurate, and truly reflect the discussion
 - **Top Tip:** as an intern/grad, tag along to as many different meetings as you can. You will learn loads through osmosis.
 ## Transition to the workplace
-#### Project structure
+#### Project Networks
+- **The Role of Networking in Engineering**
+	- Establishing a robust network in the professional services realm.
+	- Similar to building a team of allies for support.
+- **Benefits of Good Relationshiups
+	- Providing a safety net during challenges and setbacks
+	- Friendly clients and supportive managers can make a significant impact.
+	- Opportunities for exciting projects through referals
+- **The value of peers**
+	- Peers serve as valuable sources of assistance and advice
+	- Highlighting the potential to sidestep traditional interview process.
+#### Mentoring
+- **The Role of Mentors
+	- Mentors as experienced guides offering insights
+	- Different types of mentors, including technical and professional
+- **Compatibility in Mentor-Mentee **
