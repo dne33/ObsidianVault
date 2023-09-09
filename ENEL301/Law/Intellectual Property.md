@@ -41,3 +41,9 @@ In exchange for full disclosure of the new invention
 - an improvement to an existing product
 A Computer program is not an invention
 
+# Flashcards
+Patent Features Required ::: Must be novel, inventive, and useful
+Copyright Features Required ::: Must be Literary, artistic or design (incl prototypes and working drawings)
+Trademarks Features Required ::: Not a common name, place name, descriptive, jargon or offensive
+Patent Steps to take ::: Keep it secret, search previous patents
+Copyright Steps to take ::: None - Happens aut
