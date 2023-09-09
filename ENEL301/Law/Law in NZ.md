@@ -118,3 +118,11 @@ you must take reasonable care to avoid acts or omissions which you can reasonabl
 2. fitness for particular purpose
 3. time of completion
 4. Price - (Reasonable price if not agreed upon prior)
+
+# Flashcards
+Six Elements of a contract 
+?
+Intention to create legal relations, offer and acceptance, Consideration, Capacity, Genuine Consent, Legality
+Intent to create legal relations :: agreement must be enforceable at law
+Offer and Acceptance  ::  
+What does a counter offer do :: 
