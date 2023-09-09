@@ -9,7 +9,7 @@ Loosely grouped into four groups
 1. Client Requests a service
 	1. GETS issued Government Electronic Tender Service (Public call for companies to put in their offers)
 2. Clarifications sought by respondents
-	1. The client will issue answers (NTTs)
+	1. The client will issue answers (NTT(s) Notice to Tenderer(s))
 3. Respondents issue Offers (OoS Offer of Service)
 	1. Client Reviews offers and make selection
 4. Decision made and successful tendered engaged
@@ -45,7 +45,7 @@ NZ CIC (Construction Industry Council) Guidelines.
 - Generally locked to your individual account
 	- If you left the business tomorrow, would someone else be able to access everything they need?
 #### Calls
-- Good for a quick conversations and answers, relationship buidling
+- Good for a quick conversations and answers, relationship building
 - Good for a heads up before a before a challenging formal communications
 - Not suitable for formal comms
 - Generally not recorded. Not suitable if you need to reference content discussed in the future
@@ -56,5 +56,7 @@ NZ CIC (Construction Industry Council) Guidelines.
 - Agendas! CRITICAL
 	- Prepare your discussion topics
 - Assign key actions and deadlines for key tasks in minutes
-- Check minutes and actions are accurate
+- Check minutes and actions are accurate, and truly reflect the discussion
+- **Top Tip:** as an intern/grad, tag along to as many different meetings as you can. You will learn loads through osmosis.
 ## Transition to the workplace
+#### Project structure
