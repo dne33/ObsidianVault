@@ -123,6 +123,7 @@ you must take reasonable care to avoid acts or omissions which you can reasonabl
 Six Elements of a contract 
 ?
 Intention to create legal relations, offer and acceptance, Consideration, Capacity, Genuine Consent, Legality
+<!--SR:!2023-09-11,1,226-->
 
 1 Intent to create legal relations ::: agreement must be enforceable at law
 <!--SR:!2023-09-13,3,250!2023-09-11,1,230-->
