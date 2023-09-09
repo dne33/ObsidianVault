@@ -128,6 +128,6 @@ NZ CIC (Construction Industry Council) Guidelines.
 #### Dressing for work
 - **Dressing for success
 - **Professionalism Across Industries**
-	- Dress standards can vary
+	- Dress standards can vary across disciplines
 - **Health and Safety**
 	- PPE
