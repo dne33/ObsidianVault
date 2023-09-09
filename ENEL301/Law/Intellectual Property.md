@@ -46,4 +46,5 @@ Patent Features Required ::: Must be novel, inventive, and useful
 Copyright Features Required ::: Must be Literary, artistic or design (incl prototypes and working drawings)
 Trademarks Features Required ::: Not a common name, place name, descriptive, jargon or offensive
 Patent Steps to take ::: Keep it secret, search previous patents
-Copyright Steps to take ::: None - Happens aut
+Copyright Steps to take ::: None - Happens automatically
+Trademarks Steps to take ::: Check if it does not already exist as a trademark

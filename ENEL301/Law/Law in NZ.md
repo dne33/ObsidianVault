@@ -95,7 +95,7 @@ Generally, legal persons have the capacity to contract
 ##### Definition
 A lack of proper care and attention or carelessness
 you must take reasonable care to avoid acts or omissions which you can reasonably foresee would likely have a negative affect on those involved.
-## Key elements to negligence
+## Key elements to establish tort of negligence
 1. Duty of care owed - person is a 'Neighbour' 
 2. Breach of duty - failed to reach the standard of care a reasonable person ought to have
 3. Breach causes loss/damage 
@@ -151,3 +151,8 @@ persons must not be under duress, undue influence and there must not be Unconsci
 
 6 Legal ::: Contracts may be void for reason of illegality. But may be remedied if both parties were unaware of a broken law
 <!--SR:!2023-09-11,1,230!2023-09-14,4,270-->
+
+Negligence Definition ::: A lack of proper care and attention or carelessness
+Three key elements to establish tort of negligence 
+??
+Duty of care owed, Breach of duty, Breach causes loss/damage 
