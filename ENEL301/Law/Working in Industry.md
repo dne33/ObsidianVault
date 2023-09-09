@@ -20,7 +20,7 @@ NZ CIC (Construction Industry Council) Guidelines.
 ## Professional Communications
 #### Communications advice
 - Choose the correct communication method for your message
-	- Formal Comms Tool (e.g Aconex)
+	- Formal Comms Tool (e.g Aconex Project management software)
 	- Emails
 	- Phone 
 	- Meetings/Site Visits
@@ -111,11 +111,11 @@ NZ CIC (Construction Industry Council) Guidelines.
 - **Stress**
 	1. Transition doesn't eliminate stress
 	2. Deadlines gain greater significance
-	3. Design oversites can impact finances
+	3. Design oversights can impact finances
 - **Impact of Decisions**
 	1. Small oversights, huge costs
 	2. Ripple effect of engineering choices
-- Challenges beyond Controll
+- Challenges beyond Control
 	1. Budget, technical, market factors
 	2. Prioritise mental well-being
 	3. Avoid over commitment due to impostor syndrome
@@ -123,8 +123,8 @@ NZ CIC (Construction Industry Council) Guidelines.
 	1. Plan projects with clear timelines
 	2. Cultivate diverse interests
 	3. You're not alone anymore
-	4. Recognise employer's concern for wellbeing
-	5. Personal lessons: Overcommitment, learning to decline tasks, setting boundraries
+	4. Recognise employer's concern for well-being
+	5. Personal lessons: Over commitment, learning to decline tasks, setting boundaries
 #### Dressing for work
 - **Dressing for success
 - **Professionalism Across Industries**
