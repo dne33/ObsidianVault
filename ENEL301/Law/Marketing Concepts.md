@@ -23,6 +23,7 @@ The biggest mistake you can make in a company:
 	- Buy what everyone else is buying
 - Economic
 	- Buy the best value option to meet their needs
+![[Pasted image 20230909154030.png|400]]
 
 
 
