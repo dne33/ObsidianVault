@@ -123,20 +123,30 @@ you must take reasonable care to avoid acts or omissions which you can reasonabl
 Six Elements of a contract 
 ?
 Intention to create legal relations, offer and acceptance, Consideration, Capacity, Genuine Consent, Legality
+
 1 Intent to create legal relations ::: agreement must be enforceable at law
+<!--SR:!2023-09-13,3,250!2023-09-11,1,230-->
+
 2 Offer and Acceptance  :::  offer presented, offer confirmed and accepted
 <!--SR:!2023-09-13,3,250!2023-09-13,3,250-->
+
 2.1 What does a counter offer do? :: Destroys the original offer and substitutes a new offer
 <!--SR:!2023-09-11,1,230-->
+
 3 Consideration ::: Each party gives the other something and each party gets something in return
-<!--SR:!2023-09-13,3,250-->
+<!--SR:!2023-09-13,3,250!2023-09-11,1,230-->
+
 4 Capacity ::: Generally persons are legal except minors and intoxicated persons
 <!--SR:!2023-09-13,3,250!2023-09-11,1,230-->
+
 4.1 What exceptions to capacity for minors? 
 ?
 employment agreements, life insurance contracts and contracts that have been pre-approved by a court
+<!--SR:!2023-09-12,2,246-->
+
 5 Genuine Consent 
 ??
-persons must not be under duress, undue influence or there is Unconscionably, misrepresentation of facts
+persons must not be under duress, undue influence and there must not be Unconscionably, misrepresentation of facts
+
 6 Legal ::: Contracts may be void for reason of illegality. But may be remedied if both parties were unaware of a broken law
 <!--SR:!2023-09-11,1,230!2023-09-14,4,270-->
