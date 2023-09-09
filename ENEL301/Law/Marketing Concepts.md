@@ -10,6 +10,20 @@ Cheap one, why?
 The cheaper one could be just thrown in the bin.
 ### Production orientation:
 - If we can produce it more efficiently than others can, it will sell
+## Entrepreneurial engineer
+The biggest mistake you can make in a company:
+**Building something that no-one wants...**
+### What drives Consumer Behaviour?
+- Problem solving
+- Psychoanalytical
+	- Emotive Buyers
+- Cognitive miser
+	- Easiest Option 
+- Collective decision maker
+	- Buy what everyone else is buying
+- Economic
+	- Buy the best value option to meet their needs
+
 
 
 
