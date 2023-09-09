@@ -11,11 +11,9 @@
             "id": "486d5f42eabd3169",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "ENEL301/Law/Working in Industry.md",
-                "mode": "source",
-                "source": false
+                "file": "ENEL301/ENEL301 Board.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/Law/Working in Industry.md",
+                "file": "ENEL301/ENEL301 Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/Law/Working in Industry.md",
+                "file": "ENEL301/ENEL301 Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/Law/Working in Industry.md"
+                "file": "ENEL301/ENEL301 Board.md"
               }
             }
           },
@@ -164,8 +162,8 @@
   },
   "active": "486d5f42eabd3169",
   "lastOpenFiles": [
-    "ENEL301/Law/Intellectual Property.md",
     "ENEL301/Law/Working in Industry.md",
+    "ENEL301/Law/Intellectual Property.md",
     "ENEL301/Law/Marketing Concepts.md",
     "ENEL301/Law/Law in NZ.md",
     "ENEL301/Law",
