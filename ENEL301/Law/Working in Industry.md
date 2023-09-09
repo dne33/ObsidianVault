@@ -45,7 +45,16 @@ NZ CIC (Construction Industry Council) Guidelines.
 - Generally locked to your individual account
 	- If you left the business tomorrow, would someone else be able to access everything they need?
 #### Calls
-- 
+- Good for a quick conversations and answers, relationship buidling
+- Good for a heads up before a before a challenging formal communications
+- Not suitable for formal comms
+- Generally not recorded. Not suitable if you need to reference content discussed in the future
+	- Take good notes!
+	- Follow up with and email
 #### Meetings
-
+- Good for coordination, making decisions
+- Agendas! CRITICAL
+	- Prepare your discussion topics
+- Assign key actions and deadlines for key tasks in minutes
+- Check minutes and actions are accurate
 ## Transition to the workplace
