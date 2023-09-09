@@ -91,5 +91,25 @@ NZ CIC (Construction Industry Council) Guidelines.
 	- The importance of co-worker feedback
 	- Managing feedback
 #### Accountability
-- **Autonomy and Responsibilty**
+- **Autonomy and Responsibility**
+	- Transitioning to autonomy and accountability
+	- Being the central expert with ownership over outcomes
 - **Communicating and Justifying Decisions**
+	- Confidence and effective communication are essential
+	- Explaining choices to stakeholders who've invested
+- **Learning from real world Scenarios**
+	- Addressing oversight in project
+	- Dealing with design errors and proposing solutions
+#### Professional Accreditation
+- **Significance of Certifications**
+	- Certifications as credentials in industry
+	- Demonstrating expertise and professional growth
+- **Engineering NZ and Other Credentials**
+	- Engineering NZ qualifications and other industry qualifications.
+	- Identifying interests and discussing certifications with supervisors
+#### Navigating Stress and Balance
+- **Stress**
+	1. Transition doesn't eliminate stress
+	2. Deadlines gain greater significance
+	3. Design oversites can impact finances
+	4. 

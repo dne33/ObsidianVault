@@ -6,12 +6,11 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] WOrking in industry
 
 
 ## Doing
 
-- [ ] Intellectual Property
+- [ ] WOrking in industry
 
 
 ## Done
@@ -19,6 +18,7 @@ kanban-plugin: basic
 - [ ] W3 L1
 - [ ] W3 L2
 - [ ] W3 L3
+- [ ] Intellectual Property
 - [ ] Marketing Concepts
 
 
