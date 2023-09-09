@@ -35,9 +35,17 @@ NZ CIC (Construction Industry Council) Guidelines.
 	- Polite and Professional
 	- Concise is key
 	- Limited Jargon
-	- Limits and Assum[to]
+	- Limits and Assumptions of Advice
 #### Emails
+- Good for informal coordination
+- Not suitable for formal project communications, documentation issue or challenging conversations
+- Messages can get lost easily in busy inboxes
+- Consider your CC list
+- Emails can be forwarded. Be aware.
+- Generally locked to your individual account
+	- If you left the business tomorrow, would someone else be able to access everything they need?
 #### Calls
+- 
 #### Meetings
 
 ## Transition to the workplace
