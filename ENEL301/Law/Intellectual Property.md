@@ -31,4 +31,13 @@
 - Circuit layout
 - Geographical indications
 #### Patents
+An exclusive right to stop others from making using or selling your invention for 20 years
+- Become a valuable asset that can be bought, sold, exchanged.
+In exchange for full disclosure of the new invention 
+- Attractive to investors
+#### Patents can be granted for
+- a new product
+- a new process of manufacturing
+- an improvement to an existing product
+A Computer program is not an invention
 
