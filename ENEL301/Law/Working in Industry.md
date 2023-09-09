@@ -112,4 +112,22 @@ NZ CIC (Construction Industry Council) Guidelines.
 	1. Transition doesn't eliminate stress
 	2. Deadlines gain greater significance
 	3. Design oversites can impact finances
-	4. 
+- **Impact of Decisions**
+	1. Small oversights, huge costs
+	2. Ripple effect of engineering choices
+- Challenges beyond Controll
+	1. Budget, technical, market factors
+	2. Prioritise mental well-being
+	3. Avoid over commitment due to impostor syndrome
+- Balancing Health and Success
+	1. Plan projects with clear timelines
+	2. Cultivate diverse interests
+	3. You're not alone anymore
+	4. Recognise employer's concern for wellbeing
+	5. Personal lessons: Overcommitment, learning to decline tasks, setting boundraries
+#### Dressing for work
+- **Dressing for success
+- **Professionalism Across Industries**
+	- Dress standards can vary
+- **Health and Safety**
+	- PPE
