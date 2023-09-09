@@ -5,6 +5,10 @@
       "path": "ENEL301/ENEL301 Board.md"
     },
     {
+      "basename": "ENEL301 - Engineering Management",
+      "path": "ENEL301/ENEL301 - Engineering Management.md"
+    },
+    {
       "basename": "Working in Industry",
       "path": "ENEL301/Law/Working in Industry.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Searching the State Space",
       "path": "Cosc367/Lecture 2/Searching the State Space.md"
-    },
-    {
-      "basename": "ENEL301 - Engineering Management",
-      "path": "ENEL301/ENEL301 - Engineering Management.md"
     },
     {
       "basename": "A* Search Strategy",
