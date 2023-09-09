@@ -74,4 +74,22 @@ NZ CIC (Construction Industry Council) Guidelines.
 - **The Role of Mentors
 	- Mentors as experienced guides offering insights
 	- Different types of mentors, including technical and professional
-- **Compatibility in Mentor-Mentee **
+- **Compatibility in Mentor-Mentee Relationships**
+	- Finding a mentor who suits your needs and goals.
+	- It's acceptable to discuss mentorship with your supervisor
+- **Mutual Benefits of mentorship
+	- Skill development and improved work quality
+	- Encouragement from management to engage in mentorship
+#### Performance
+- **Understanding Performance Metrics**
+	- KPIs - Individualised Statistics
+	- Timesheets and utilisation as key measurement tools.
+- **Timesheets and their Role**
+	- Timesheets as self-reported record of tasks
+	- Aiding managers, project leaders, and HR in gauging activities
+- **The Human Touch**
+	- The importance of co-worker feedback
+	- Managing feedback
+#### Accountability
+- **Autonomy and Responsibilty**
+- **Communicating and Justifying Decisions**
