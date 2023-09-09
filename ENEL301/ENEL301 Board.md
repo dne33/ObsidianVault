@@ -7,12 +7,12 @@ kanban-plugin: basic
 ## To do
 
 - [ ] Intellectual Property
-- [ ] Marketing Concepts
 - [ ] WOrking in industry
 
 
 ## Doing
 
+- [ ] Marketing Concepts
 
 
 ## Done
