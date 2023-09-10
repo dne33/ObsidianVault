@@ -131,3 +131,37 @@ NZ CIC (Construction Industry Council) Guidelines.
 	- Dress standards can vary across disciplines
 - **Health and Safety**
 	- PPE
+# Flashcards
+## Introduction to Industry
+
+**Types of companies and Graduate Roles** ::: Four main groups - Client/Asset Owners, Consultants, Contractors, Manufacturers/Product Design.
+
+**How projects are procured** ::: 1. Client Requests a service. 2. Clarifications sought by respondents. 3. Respondents issue Offers. 4. Decision made, and successful tenderer engaged.
+
+**Typical project/design workflow** ::: Follows NZ CIC (Construction Industry Council) Guidelines.
+
+## Professional Communications
+
+**Communications advice** ::: - Choose the right way to communicate. - Think about why you're communicating. - Think about who you're talking to. - Use polite and clear language.
+
+**Emails** ::: - Good for casual stuff. - Not for important project stuff. - Be careful with CC and forwarding.
+
+**Calls** ::: - Good for quick chats. - Not for official stuff. - Take notes and follow up with emails.
+
+**Meetings** ::: - Good for making decisions. - Always have an agenda. - Write down tasks and deadlines.
+
+## Transition to the Workplace
+
+**Project Networks** ::: - **Networking in Engineering** - Make friends in the industry. - Benefits of good relationships. - Learn from your peers.
+
+**Mentoring** ::: - **Mentors** - Find someone experienced to guide you. - Different mentors for different needs. - Talk to your boss about mentoring. - Benefits for both mentor and mentee.
+
+**Performance** ::: - **Performance Metrics** - KPIs and timesheets matter. - Timesheets help track your work. - Feedback from colleagues is essential.
+
+**Accountability** ::: - **Taking Responsibility** - Be in charge and explain your choices. - Learn from mistakes. - Be clear in your communication.
+
+**Professional Accreditation** ::: - **Getting Certified** - Certifications show you know your stuff. - Discuss certifications with your boss.
+
+**Navigating Stress and Balance** ::: - **Dealing with Stress** - Stress won't disappear. - Be mindful of your mental health. - Balance work and personal life.
+
+**Dressing for Work** ::: - **Dress Professionally** - Wear the right clothes for your job. - Follow safety rules.
