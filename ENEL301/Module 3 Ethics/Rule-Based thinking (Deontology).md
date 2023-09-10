@@ -84,6 +84,7 @@ Rule: People have fundamental rights that other people have a duty to 
 	 - Fisher and Paykel Healthcare  https://www.fphcare.com/nz/our‐company/sustainability/ethics‐and‐legal‐compliance/
 # Flashcards
 1. What is Rule-Based Thinking (Deontology)? ::: It's an absolutist ethical approach where actions are ethical when certain rules are obeyed, regardless of the situation.
+<!--SR:!2023-09-13,3,250-->
     
 2. What are "Rules about Rights" in ethics? ::: They involve fundamental rights people have, like privacy and freedom of choice, which others must respect. Conflicting rights can lead to ethical dilemmas.
     

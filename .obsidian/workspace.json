@@ -11,9 +11,11 @@
             "id": "486d5f42eabd3169",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ENEL301/ENEL301 Board.md"
+                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/ENEL301 Board.md",
+                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/ENEL301 Board.md",
+                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/ENEL301 Board.md"
+                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md"
               }
             }
           },
@@ -169,20 +171,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0879454cde62909c",
+  "active": "486d5f42eabd3169",
   "lastOpenFiles": [
+    "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
+    "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
+    "ENEL301/ENEL301 Board.md",
     "ENEL301/Module 3 Ethics/Virtues‐Based Thinking.md",
     "ENEL301/ENEL301 - Engineering Management.md",
     "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md",
     "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md",
-    "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
-    "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
     "ENEL301/Module 3 Ethics/1. Thinking Ethically.md",
     "ENEL301/Law/Working in Industry.md",
     "ENEL301/Law/Marketing Concepts.md",
     "ENEL301/Law/Law in NZ.md",
     "ENEL301/Law/Intellectual Property.md",
-    "ENEL301/ENEL301 Board.md",
     "ENEL301/Images/Pasted image 20230909154030.png",
     "ENEL301/Law",
     "ENEL301/Untitled.md",
