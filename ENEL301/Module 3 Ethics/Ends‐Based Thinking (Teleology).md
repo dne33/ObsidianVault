@@ -16,3 +16,7 @@
 ##### Shortcomings
 - Only considers the overall happiness/suffering, not the distribution.
 - Difficult to quantify emotive like happiness and suffering 
+# Flashcards
+Consequentialism ::: Ethical acts prioritize the best outcomes (Consequences) - Flexible, not absolute like Rule-Based thinking (Deontology)
+Utilitarianism ::: Ethical acts aim for the greatest good for the greatest number - Measures right and wrong by maximizing overall happiness and minimizing suffering - Involves cost-benefit analysis
+Ends-based Shortcomings ::: - Ignores distribution of happiness/suffering, Challenges in quantifying emotions like happiness and suffering.
