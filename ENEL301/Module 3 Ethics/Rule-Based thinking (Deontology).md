@@ -82,4 +82,17 @@ Rule: People have fundamental rights that other people have a duty to 
 	 - WSP Opus  https://www.wsp.com/en‐US/who‐we‐are/corporate‐responsibility/ethics‐integrity 
 	 - Meridian Energy  https://www.meridianenergy.co.nz/assets/Investors/Governance/Policies/Code‐of‐Conduct‐APPROVED‐27‐May‐2020.pdf 
 	 - Fisher and Paykel Healthcare  https://www.fphcare.com/nz/our‐company/sustainability/ethics‐and‐legal‐compliance/
-	 
+# Flashcards
+1. What is Rule-Based Thinking (Deontology)? ::: It's an absolutist ethical approach where actions are ethical when certain rules are obeyed, regardless of the situation.
+    
+2. What are "Rules about Rights" in ethics? ::: They involve fundamental rights people have, like privacy and freedom of choice, which others must respect. Conflicting rights can lead to ethical dilemmas.
+    
+3. What are the types of justice in ethics? ::: Distributive (equity), procedural (impartiality), and compensatory (fairness). They deal with fair resource distribution, impartial processes, and injury compensation, respectively.
+    
+4. Name some engineering professional codes of ethics. ::: Examples include Engineering NZ Code of Ethical Conduct, IEEE Code of Ethics, and ASCE Code of Ethics, among others.
+    
+5. What is the Golden Rule in ethics? ::: It's the principle of treating others as you wish to be treated. However, it doesn't account for differing needs and wants.
+    
+6. What's the key principle of the Golden Rule, and give cultural variations. ::: The key principle is to treat people how THEY wish to be treated. Variations include "Do unto others as you would have them do to you" and similar phrases in different cultures.
+    
+7. What is "Company Policy" in ethics? ::: It means following your employer's rules and policies, a requirement of your employment. Examples are found in various NZ engineering companies.
