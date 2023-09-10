@@ -63,25 +63,26 @@ A Computer program is not an invention
 ## Types of Intellectual property
 
 **What are the types of Intellectual Property?** ::: Confidential information, Copyright, Designs, Trade marks, Plant varieties, Circuit layout, Geographical indications.
-<!--SR:!2023-09-11,1,230-->
+<!--SR:!2023-09-11,1,230!2023-09-14,4,270-->
 
 ### Patents
 
 **What is a Patent?** ::: An exclusive right to stop others from making, using, or selling your invention for 20 years. It becomes a valuable asset that can be bought, sold, or exchanged in exchange for full disclosure of the new invention.
-<!--SR:!2023-09-11,1,230-->
+<!--SR:!2023-09-11,1,230!2023-09-13,3,250-->
 
 **What can Patents be granted for?** ::: A new product, a new process of manufacturing, an improvement to an existing product. Note: A computer program is not considered an invention.
 <!--SR:!2023-09-11,1,230!2023-09-13,3,250-->
 
 ## Rubrick thingy
 Patent Features Required ::: Must be novel, inventive, and useful
-<!--SR:!2023-09-11,1,230-->
+<!--SR:!2023-09-11,1,230!2023-09-13,3,250-->
 Copyright Features Required ::: Must be Literary, artistic or design (incl prototypes and working drawings)
 <!--SR:!2023-09-11,1,230!2023-09-13,3,250-->
 Trademarks Features Required ::: Not a common name, place name, descriptive, jargon or offensive
+<!--SR:!2023-09-13,3,250!2023-09-13,3,250-->
 Patent Steps to take ::: Keep it secret, search previous patents
-<!--SR:!2023-09-13,3,250-->
+<!--SR:!2023-09-13,3,250!2023-09-13,3,250-->
 Copyright Steps to take ::: None - Happens automatically
-<!--SR:!2023-09-14,4,270-->
+<!--SR:!2023-09-14,4,270!2023-09-13,3,250-->
 Trademarks Steps to take ::: Check if it does not already exist as a trademark
-<!--SR:!2023-09-13,3,250-->
+<!--SR:!2023-09-13,3,250!2023-09-13,3,250-->

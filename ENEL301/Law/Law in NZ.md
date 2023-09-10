@@ -153,7 +153,17 @@ persons must not be under duress, undue influence and there must not be Unconsci
 <!--SR:!2023-09-11,1,230!2023-09-14,4,270-->
 
 Negligence Definition ::: A lack of proper care and attention or carelessness
-<!--SR:!2023-09-11,1,225-->
+<!--SR:!2023-09-11,1,225!2023-09-12,2,245-->
 Three key elements to establish tort of negligence 
 ??
 Duty of care owed, Breach of duty, Breach causes loss/damage 
+
+## Consumer Protection
+
+**Fair Trading Act** ::: Provides pre-sale protection by regulating promotional conduct (adverts, brochures, etc.).
+
+## Consumer Guarantees Act 1993 (CGA)
+
+- **Aims** ::: Offers protection for contracts for the purchase of goods and services, setting out minimum standards for goods and services. It is efficient, protection is automatic, and can't be avoided.
+    
+- **Application of Act** ::: The act applies when goods and services are supplied by a supplier or manufacturer to a consumer.

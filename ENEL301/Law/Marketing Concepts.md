@@ -29,3 +29,20 @@ The biggest mistake you can make in a company:
 
 
 
+# Flashcards
+## Mistakes
+
+**Product orientation** ::: Belief that if a product is good, it will sell. Example: "Build a better mousetrap and the world will beat a path to your door."
+
+**Production orientation** ::: Belief that if a product can be produced more efficiently than others, it will sell.
+
+## Entrepreneurial Engineer
+
+**The biggest mistake in a company** ::: Building something that no one wants.
+
+## What Drives Consumer Behavior?
+- **Problem Solving** ::: Consumers seek solutions to their problems.
+- **Psychoanalytical** ::: Emotive buyers make decisions based on emotions.
+- **Cognitive Miser** ::: Consumers choose the easiest option.
+- **Collective Decision Maker** ::: Consumers buy what everyone else is buying.
+- **Economic** ::: Consumers seek the best value option to meet their needs.
