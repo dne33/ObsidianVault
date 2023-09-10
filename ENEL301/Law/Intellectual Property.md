@@ -24,7 +24,7 @@
 ## Types of Intellectual property
 
 - Confidential info
-- COpyright
+- Copyright
 - Designs
 - Trade marks
 - Plant varieties
