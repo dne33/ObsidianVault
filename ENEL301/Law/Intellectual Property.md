@@ -63,7 +63,7 @@ A Computer program is not an invention
 ## Types of Intellectual property
 
 **What are the types of Intellectual Property?** ::: Confidential information, Copyright, Designs, Trade marks, Plant varieties, Circuit layout, Geographical indications.
-<!--SR:!2023-09-11,1,230!2023-09-14,4,270-->
+<!--SR:!2023-09-12,1,210!2023-09-14,4,270-->
 
 ### Patents
 
@@ -75,9 +75,9 @@ A Computer program is not an invention
 
 ## Rubrick thingy
 Patent Features Required ::: Must be novel, inventive, and useful
-<!--SR:!2023-09-11,1,230!2023-09-13,3,250-->
+<!--SR:!2023-09-13,2,230!2023-09-13,3,250-->
 Copyright Features Required ::: Must be Literary, artistic or design (incl prototypes and working drawings)
-<!--SR:!2023-09-11,1,230!2023-09-13,3,250-->
+<!--SR:!2023-09-12,1,210!2023-09-13,3,250-->
 Trademarks Features Required ::: Not a common name, place name, descriptive, jargon or offensive
 <!--SR:!2023-09-13,3,250!2023-09-13,3,250-->
 Patent Steps to take ::: Keep it secret, search previous patents

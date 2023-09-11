@@ -153,7 +153,7 @@ persons must not be under duress, undue influence and there must not be Unconsci
 <!--SR:!2023-09-11,1,230!2023-09-14,4,270-->
 
 Negligence Definition ::: A lack of proper care and attention or carelessness
-<!--SR:!2023-09-11,1,225!2023-09-12,2,245-->
+<!--SR:!2023-09-12,1,205!2023-09-12,2,245-->
 Three key elements to establish tort of negligence 
 ??
 Duty of care owed, Breach of duty, Breach causes loss/damage 
