@@ -126,7 +126,7 @@ Intention to create legal relations, offer and acceptance, Consideration, Capaci
 <!--SR:!2023-09-11,1,226-->
 
 1 Intent to create legal relations ::: agreement must be enforceable at law
-<!--SR:!2023-09-13,3,250!2023-09-11,1,230-->
+<!--SR:!2023-09-13,3,250!2023-09-13,2,230-->
 
 2 Offer and Acceptance  :::  offer presented, offer confirmed and accepted
 <!--SR:!2023-09-13,3,250!2023-09-13,3,250-->

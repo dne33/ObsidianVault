@@ -53,12 +53,12 @@ A Computer program is not an invention
 ## IP Strategy is important
 
 **Why is IP Strategy important?** ::: To leverage IP to earn money, block competitors, and avoid legal infringement risk.
-<!--SR:!2023-09-11,1,230-->
+<!--SR:!2023-09-13,2,230-->
 
 ## Who can help me with my IP
 
 **Who can help with IP?** ::: IPONZ (Government agency), Patent attorneys, Lawyers.
-<!--SR:!2023-09-11,1,230!2023-09-13,3,250-->
+<!--SR:!2023-09-13,2,230!2023-09-13,3,250-->
 
 ## Types of Intellectual property
 
@@ -68,7 +68,7 @@ A Computer program is not an invention
 ### Patents
 
 **What is a Patent?** ::: An exclusive right to stop others from making, using, or selling your invention for 20 years. It becomes a valuable asset that can be bought, sold, or exchanged in exchange for full disclosure of the new invention.
-<!--SR:!2023-09-11,1,230!2023-09-13,3,250-->
+<!--SR:!2023-09-12,1,210!2023-09-13,3,250-->
 
 **What can Patents be granted for?** ::: A new product, a new process of manufacturing, an improvement to an existing product. Note: A computer program is not considered an invention.
 <!--SR:!2023-09-11,1,230!2023-09-13,3,250-->
