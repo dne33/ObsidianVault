@@ -27,4 +27,6 @@ EAR= (1 + i/m)<sup>m</sup>-1
 - Analysis assumes that there is a series of same-sized receipts or disbursements that begin at the end of period 1 and continue to the end of period n (aka the maturity date).
 - Mortgage and loan payments are classical examples of annuity
  FV<sub>t</sub> = C/i * ((1+i)<sup>t</sup>-1)
- 
+## Perpetuitity
+PV<sub>perp</sub> = C/r 
+with constant growth = C/(r-g)
