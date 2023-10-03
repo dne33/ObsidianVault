@@ -10,7 +10,11 @@
 ## Interest vs Compounding interest:
 i = interest rate
 m = number of compounding periods in a year
-Static interest:
+t = time
+**Static interest:**
 FV = PV(1+i\*t)
-Compound
+**Compound:**
 FV = PV(1+i/m)<sup>mt</sup> 
+
+**Effective Annual Interest Rate:**
+EAR= (1 + i/m)<sup>m</sup>-1
