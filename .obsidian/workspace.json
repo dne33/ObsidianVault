@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
+                "file": "ENEL301/Module 5 Accounting/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
+                "file": "ENEL301/Module 5 Accounting/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
+                "file": "ENEL301/Module 5 Accounting/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md"
+                "file": "ENEL301/Module 5 Accounting/Untitled.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "2e9a619bcd5407f7",
+            "id": "6955c2a8dbf50ab9",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -173,24 +173,23 @@
   },
   "active": "486d5f42eabd3169",
   "lastOpenFiles": [
-    "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
-    "ENEL301/Module 3 Ethics/1. Thinking Ethically.md",
     "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
-    "ENEL301/Module 2 Management/Organising.md",
-    "ENEL301/Module 1 Professional/Intro to Management for Engineers.md",
-    "ENEL301/Module 1 Professional/Classical Approaches to Management.md",
-    "ENEL301/Law/Working in Industry.md",
-    "ENEL301/Law/Intellectual Property.md",
-    "ENEL301/Law/Marketing Concepts.md",
-    "ENEL301/Law/Law in NZ.md",
-    "ENEL301/Untitled.md",
+    "ENEL301/Module 5 Accounting/Untitled.md",
+    "ENEL301/Module 5 Accounting",
+    "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
     "ENEL301/ENEL301 Board.md",
-    "ENEL301/Images/Pasted image 20230909154030.png",
-    "Cosc367/Lecture 2/A Search Strategy.md",
-    "ENEL301/Law",
     "ENEL301/Module 3 Ethics/Virtues‐Based Thinking.md",
+    "ENEL301/ENEL301 - Engineering Management.md",
     "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md",
     "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md",
+    "ENEL301/Module 3 Ethics/1. Thinking Ethically.md",
+    "ENEL301/Law/Working in Industry.md",
+    "ENEL301/Law/Marketing Concepts.md",
+    "ENEL301/Law/Law in NZ.md",
+    "ENEL301/Law/Intellectual Property.md",
+    "ENEL301/Images/Pasted image 20230909154030.png",
+    "ENEL301/Law",
+    "ENEL301/Untitled.md",
     "ENEL301/Images/Pasted image 20230908111544.png",
     "ENEL301/Images/Pasted image 20230904123614.png",
     "ENEL301/Images/Pasted image 20230904122305.png",
@@ -202,9 +201,11 @@
     "ENEL301/Images/Pasted image 20230804095601.png",
     "ENEL301/Images/Pasted image 20230804094225.png",
     "ENEL301/Module 2 Management/People in Organisations.md",
+    "ENEL301/Module 2 Management/Organising.md",
+    "ENEL301/Module 1 Professional/Classical Approaches to Management.md",
     "ENEL301/Module 3 Ethics",
+    "ENEL301/Module 1 Professional/Intro to Management for Engineers.md",
     "Cosc367/Lecture 2/Searching the State Space.md",
-    "ENEL301/ENEL301 - Engineering Management.md",
     "Cosc367/Lecture 2/A* Search Strategy.md",
     "ObsidianVault",
     "csse/users/dne33/Documents/Obsidian Vault/Clone",
@@ -212,10 +213,10 @@
     "csse/users/dne33/Documents",
     "csse/users/dne33",
     "csse/users",
-    "csse",
     "Cosc367/Lecture 1/LCFS.md",
     "Cosc367/Lecture 2/Pruning.md",
     "Cosc367/Lecture 2/Tracing Frontiers With Pruning.md",
-    "Cosc367/Lecture 1/General Graphs.md"
+    "Cosc367/Lecture 1/General Graphs.md",
+    "The Problem with cycles and multiple paths.md"
   ]
 }
