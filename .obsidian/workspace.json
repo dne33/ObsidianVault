@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e697adbe8d5a766",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,6 +163,16 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "b8bc51ee0b2666fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -171,7 +192,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "486d5f42eabd3169",
+  "active": "4e697adbe8d5a766",
   "lastOpenFiles": [
     "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
     "ENEL301/Module 4 EEA/Risk and Return.md",
