@@ -17,3 +17,7 @@ Interest or profit available from an alternative investment is called the **Oppo
 i<sub>real</sub> = real interest rate
 i<Sub>nom</Sub> = nominal interest rate
 infl = inflation rate
+Fisher Equation:
+1 + i<sub>real</sub> = (1 + i<Sub>nom</Sub>)/ (1 + infl)
+- An estimate: 
+	- Real interest rate ≈ nominal interest rate - inflation rate
