@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
+                "file": "ENEL301/Module 4 EEA/Risk and Return.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
+                "file": "ENEL301/Module 4 EEA/Risk and Return.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
+                "file": "ENEL301/Module 4 EEA/Risk and Return.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Engineering Econ Analysis.md"
+                "file": "ENEL301/Module 4 EEA/Risk and Return.md"
               }
             }
           },
@@ -171,11 +171,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0879454cde62909c",
+  "active": "486d5f42eabd3169",
   "lastOpenFiles": [
+    "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
+    "ENEL301/Module 4 EEA/Risk and Return.md",
     "ENEL301/Module 4 EEA",
     "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
-    "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
     "ENEL301/Module 5 Accounting",
     "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
     "ENEL301/ENEL301 Board.md",
@@ -213,7 +214,6 @@
     "csse/users/dne33/Documents/Obsidian Vault",
     "csse/users/dne33/Documents",
     "csse/users/dne33",
-    "csse/users",
     "Cosc367/Lecture 1/LCFS.md",
     "Cosc367/Lecture 2/Pruning.md",
     "Cosc367/Lecture 2/Tracing Frontiers With Pruning.md",
