@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Risk and Return.md",
+                "file": "ENEL301/Module 4 EEA/Cash Flows.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4e697adbe8d5a766",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Risk and Return.md",
+                "file": "ENEL301/Module 4 EEA/Cash Flows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Risk and Return.md",
+                "file": "ENEL301/Module 4 EEA/Cash Flows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Risk and Return.md"
+                "file": "ENEL301/Module 4 EEA/Cash Flows.md"
               }
             }
           },
@@ -192,10 +181,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4e697adbe8d5a766",
+  "active": "486d5f42eabd3169",
   "lastOpenFiles": [
-    "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
     "ENEL301/Module 4 EEA/Risk and Return.md",
+    "ENEL301/Module 4 EEA/Cash Flows.md",
+    "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
     "ENEL301/Module 4 EEA",
     "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
     "ENEL301/Module 5 Accounting",
@@ -238,7 +228,6 @@
     "Cosc367/Lecture 1/LCFS.md",
     "Cosc367/Lecture 2/Pruning.md",
     "Cosc367/Lecture 2/Tracing Frontiers With Pruning.md",
-    "Cosc367/Lecture 1/General Graphs.md",
-    "The Problem with cycles and multiple paths.md"
+    "Cosc367/Lecture 1/General Graphs.md"
   ]
 }
