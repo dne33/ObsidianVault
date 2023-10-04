@@ -10,3 +10,10 @@
 - Sunk costs should be disregarded (from now onwards)
 ## Net Present Value
 NPV = Sum(\[C/(1+r) for C in periodic_revenue])
+E.G
+proposed nuclear plant would cost $900 mil to build and generate $300 per year for 4 years. Then cost 90 mill to decomission in year 5
+NPV of the project if the discount rate is 6% 
+NPV = Sum(\[C/(1+r) for C in periodic_revenue])
+       = -900 + 300/1.06 + 300/1.06<sup>2</sup> + 300/1.06<sup>3</sup> + 300/1.06<sup>4</sup> - 90/1.06<sup>5</sup> 
+       = $72.278 Million
+        
