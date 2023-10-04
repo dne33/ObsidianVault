@@ -9,4 +9,4 @@
 - Cash flow is not accounting profit!
 - Sunk costs should be disregarded (from now onwards)
 ## Net Present Value
-NPV = Sum(\[])
+NPV = Sum(\[C/(1+r) for C in periodic_revenue])
