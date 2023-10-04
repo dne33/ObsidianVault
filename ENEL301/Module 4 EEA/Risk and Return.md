@@ -11,3 +11,5 @@ Interest or profit available from an alternative investment is called the **Oppo
 ## Risk, Return and the Cost of Capital
 - Investing in equity is riskier than investing in debt ...
 - For large companies the cost of capital is the weighted average of the cost o borrowing (debt) and the cost of selling shares (raising equity)
+- If the company is not seeking funding, it can set its own **Minimum Acceptable Rate of Return** (MARR) based on the **Opportunity cost of capital**
+- For smaller companies, both debt and equity are harder to find, and cost more.
