@@ -8,3 +8,5 @@
 	- How to treat risk
 - Cash flow is not accounting profit!
 - Sunk costs should be disregarded (from now onwards)
+## Net Present Value
+NPV = Sum(\[])
