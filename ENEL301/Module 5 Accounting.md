@@ -9,16 +9,21 @@
 | ----------- | ------ |
 | Bank Charges | Expense       | 
 | Bank Loan   | Liability        |
-| Capital   | Liability        |
-| Creditors (you owe)   | Liability        |
-| Debtors (you are owed)   | Liability        |
-| Drawings | Liability        |
-| Equipment   | Liability        |
-| Fees revenue  | Liability        |
-| Interest paid (to bank)   | Liability        |
-| Office expenses   | Liability        |
-| Repairs and Maintenance   | Liability        |
-| Bank Loan   | Liability        |
+| Capital   | Equity        |
+| Creditors (you owe)   | Asset      |
+| Debtors (you are owed)   | Expense        |
+| Drawings | Equity        |
+| Equipment   | Asset        |
+| Fees revenue  | Reveneue        |
+| Interest paid (to bank)   | Expense        |
+| Office expenses   | Expense        |
+| Repairs and Maintenance   | Expense        |
+| Tax   | Expense        |
+| Telephone   | Expense        |
+| Vehicles   | Asset        |
+| Wages   | Expense        |
+
+
 
 
 
