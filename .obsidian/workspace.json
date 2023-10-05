@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Cash Flows.md",
+                "file": "ENEL301/Module 5 Accounting.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Cash Flows.md",
+                "file": "ENEL301/Module 5 Accounting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Cash Flows.md",
+                "file": "ENEL301/Module 5 Accounting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/Module 4 EEA/Cash Flows.md"
+                "file": "ENEL301/Module 5 Accounting.md"
               }
             }
           },
@@ -173,11 +173,12 @@
   },
   "active": "486d5f42eabd3169",
   "lastOpenFiles": [
+    "ENEL301/Module 4 EEA/Cash Flows.md",
+    "ENEL301/Module 5 Accounting.md",
     "ENEL301/Law/Intellectual Property.md",
     "conflict-files-obsidian-git.md",
     "ENEL301/Module 4 EEA/Risk and Return.md",
     "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
-    "ENEL301/Module 4 EEA/Cash Flows.md",
     "ENEL301/Module 4 EEA",
     "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md",
     "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md",
@@ -188,7 +189,6 @@
     "ENEL301/Law/Working in Industry.md",
     "ENEL301/Law/Marketing Concepts.md",
     "ENEL301/Law/Law in NZ.md",
-    "ENEL301/Untitled.md",
     "ENEL301/ENEL301 Board.md",
     "ENEL301/Images/Pasted image 20230909154030.png",
     "Cosc367/Lecture 2/A Search Strategy.md",
