@@ -20,4 +20,3 @@ NPV of the project if the discount rate is 16%
 NPV = Sum(\[C/(1+r) for C in periodic_revenue])
        = -900 + 300/1.16 + 300/1.16<sup>2</sup> + 300/1.16<sup>3</sup> + 300/1.16<sup>4</sup> - 90/1.16<sup>5</sup> 
        = -$103.396 Million
-        

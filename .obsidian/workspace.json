@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENEL301/Law/Intellectual Property.md",
+                "file": "ENEL301/Module 4 EEA/Cash Flows.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENEL301/Law/Intellectual Property.md",
+                "file": "ENEL301/Module 4 EEA/Cash Flows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENEL301/Law/Intellectual Property.md",
+                "file": "ENEL301/Module 4 EEA/Cash Flows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENEL301/Law/Intellectual Property.md"
+                "file": "ENEL301/Module 4 EEA/Cash Flows.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "486d5f42eabd3169",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ENEL301/Law/Intellectual Property.md",
+    "conflict-files-obsidian-git.md",
     "ENEL301/Module 4 EEA/Risk and Return.md",
     "ENEL301/Module 4 EEA/Engineering Econ Analysis.md",
     "ENEL301/Module 4 EEA/Cash Flows.md",
