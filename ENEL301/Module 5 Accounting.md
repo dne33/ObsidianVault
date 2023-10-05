@@ -24,6 +24,9 @@
 | Wages   | Expense        |
 
 
+**EBITDA** = Earnings Before Interest, Tax, Depreciation, Amortisation (depreciation of intangible assets)
+**EBIT** = Earnings Before Interest, Tax
+**NPAT** = Net Profit After Tax
 
 
 
