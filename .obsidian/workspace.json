@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5243bfbceadfdcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COSC428/Lecture 1 - Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SENG401/Lecture 1 - Intro.md",
+                "file": "COSC428/Lecture 1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SENG401/Lecture 1 - Intro.md",
+                "file": "COSC428/Lecture 1 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SENG401/Lecture 1 - Intro.md"
+                "file": "COSC428/Lecture 1 - Intro.md"
               }
             }
           },
@@ -159,7 +172,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -182,8 +197,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "486d5f42eabd3169",
+  "active": "c5243bfbceadfdcd",
   "lastOpenFiles": [
+    "COSC428/Lecture 1 - Intro.md",
+    "COSC428",
     "ENEL301/Module 4 EEA/Cash Flows.md",
     "SENG401/Lecture 1 - Intro.md",
     "SENG401",
@@ -227,8 +244,6 @@
     "ObsidianVault",
     "csse/users/dne33/Documents/Obsidian Vault/Clone",
     "csse/users/dne33/Documents/Obsidian Vault",
-    "csse/users/dne33/Documents",
-    "Cosc367/Lecture 1/LCFS.md",
-    "Cosc367/Lecture 2/Pruning.md"
+    "Cosc367/Lecture 1/LCFS.md"
   ]
 }
