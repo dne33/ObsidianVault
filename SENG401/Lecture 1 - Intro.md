@@ -1,8 +1,10 @@
 19/02/2024
 ## high-quality software is:
+#### Internal Qualities 
 - Well documented (user documentation and technical documentation)
 - Well-structured/decomposed/architected 
 - No code duplication (reuse) 
+#### External Qualities
 - Meets users' expectations (needs, functional requirements) 
 - Does not fail unexpectedly 
 - Has no bug 
@@ -23,4 +25,4 @@ SDLC types give a template; the name and number of phases may be adapted in a sp
 - Reduce time-to-market
 - Improve product quality
 - Reduce product cost
-Improving quality increases (immediate) cost and time-to-market
+*Improving quality* **increases (immediate) cost and time-to-market**
