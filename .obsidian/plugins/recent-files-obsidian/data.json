@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Module 5 Accounting",
-      "path": "ENEL301/Module 5 Accounting.md"
-    },
-    {
-      "basename": "ENEL301 Board",
-      "path": "ENEL301/ENEL301 Board.md"
+      "basename": "Lecture 1 - Intro",
+      "path": "SENG401/Lecture 1 - Intro.md"
     },
     {
       "basename": "Cash Flows",
       "path": "ENEL301/Module 4 EEA/Cash Flows.md"
     },
     {
-      "basename": "Intellectual Property",
-      "path": "ENEL301/Law/Intellectual Property.md"
+      "basename": "Risk and Return",
+      "path": "ENEL301/Module 4 EEA/Risk and Return.md"
+    },
+    {
+      "basename": "Engineering Econ Analysis",
+      "path": "ENEL301/Module 4 EEA/Engineering Econ Analysis.md"
     },
     {
       "basename": "3. Codes of Ethical Practice",
@@ -25,20 +25,28 @@
       "path": "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md"
     },
     {
+      "basename": "ENEL301 Board",
+      "path": "ENEL301/ENEL301 Board.md"
+    },
+    {
+      "basename": "Virtues‐Based Thinking",
+      "path": "ENEL301/Module 3 Ethics/Virtues‐Based Thinking.md"
+    },
+    {
+      "basename": "ENEL301 - Engineering Management",
+      "path": "ENEL301/ENEL301 - Engineering Management.md"
+    },
+    {
+      "basename": "Rule-Based thinking (Deontology)",
+      "path": "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md"
+    },
+    {
+      "basename": "Ends‐Based Thinking (Teleology)",
+      "path": "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md"
+    },
+    {
       "basename": "1. Thinking Ethically",
       "path": "ENEL301/Module 3 Ethics/1. Thinking Ethically.md"
-    },
-    {
-      "basename": "Organising",
-      "path": "ENEL301/Module 2 Management/Organising.md"
-    },
-    {
-      "basename": "Intro to Management for Engineers",
-      "path": "ENEL301/Module 1 Professional/Intro to Management for Engineers.md"
-    },
-    {
-      "basename": "Classical Approaches to Management",
-      "path": "ENEL301/Module 1 Professional/Classical Approaches to Management.md"
     },
     {
       "basename": "Working in Industry",
@@ -53,16 +61,8 @@
       "path": "ENEL301/Law/Law in NZ.md"
     },
     {
-      "basename": "Virtues‐Based Thinking",
-      "path": "ENEL301/Module 3 Ethics/Virtues‐Based Thinking.md"
-    },
-    {
-      "basename": "Rule-Based thinking (Deontology)",
-      "path": "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md"
-    },
-    {
-      "basename": "Ends‐Based Thinking (Teleology)",
-      "path": "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md"
+      "basename": "Intellectual Property",
+      "path": "ENEL301/Law/Intellectual Property.md"
     },
     {
       "basename": "Pasted image 20230908111544",
@@ -109,12 +109,24 @@
       "path": "ENEL301/Module 2 Management/People in Organisations.md"
     },
     {
+      "basename": "Organising",
+      "path": "ENEL301/Module 2 Management/Organising.md"
+    },
+    {
+      "basename": "Classical Approaches to Management",
+      "path": "ENEL301/Module 1 Professional/Classical Approaches to Management.md"
+    },
+    {
+      "basename": "Intro to Management for Engineers",
+      "path": "ENEL301/Module 1 Professional/Intro to Management for Engineers.md"
+    },
+    {
       "basename": "Searching the State Space",
       "path": "Cosc367/Lecture 2/Searching the State Space.md"
     },
     {
-      "basename": "ENEL301 - Engineering Management",
-      "path": "ENEL301/ENEL301 - Engineering Management.md"
+      "basename": "A* Search Strategy",
+      "path": "Cosc367/Lecture 2/A* Search Strategy.md"
     },
     {
       "basename": "Tracing Frontiers",
@@ -187,10 +199,6 @@
     {
       "basename": "Directed graphs",
       "path": "Cosc367/Lecture 1/Directed graphs.md"
-    },
-    {
-      "basename": "State space & its Graphs",
-      "path": "Cosc367/Lecture 1/State space & its Graphs.md"
     }
   ],
   "omittedPaths": [],
