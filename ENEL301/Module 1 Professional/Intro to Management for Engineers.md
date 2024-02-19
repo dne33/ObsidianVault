@@ -1,1 +1,0 @@
-##  [[Classical Approaches to Management]]

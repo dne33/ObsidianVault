@@ -5,120 +5,8 @@
       "path": "SENG401/Lecture 1 - Intro.md"
     },
     {
-      "basename": "Cash Flows",
-      "path": "ENEL301/Module 4 EEA/Cash Flows.md"
-    },
-    {
-      "basename": "Risk and Return",
-      "path": "ENEL301/Module 4 EEA/Risk and Return.md"
-    },
-    {
-      "basename": "Engineering Econ Analysis",
-      "path": "ENEL301/Module 4 EEA/Engineering Econ Analysis.md"
-    },
-    {
-      "basename": "3. Codes of Ethical Practice",
-      "path": "ENEL301/Module 3 Ethics/3. Codes of Ethical Practice.md"
-    },
-    {
-      "basename": "2. Codes of Ethical Practice",
-      "path": "ENEL301/Module 3 Ethics/2. Codes of Ethical Practice.md"
-    },
-    {
-      "basename": "ENEL301 Board",
-      "path": "ENEL301/ENEL301 Board.md"
-    },
-    {
-      "basename": "Virtues‐Based Thinking",
-      "path": "ENEL301/Module 3 Ethics/Virtues‐Based Thinking.md"
-    },
-    {
-      "basename": "ENEL301 - Engineering Management",
-      "path": "ENEL301/ENEL301 - Engineering Management.md"
-    },
-    {
-      "basename": "Rule-Based thinking (Deontology)",
-      "path": "ENEL301/Module 3 Ethics/Rule-Based thinking (Deontology).md"
-    },
-    {
-      "basename": "Ends‐Based Thinking (Teleology)",
-      "path": "ENEL301/Module 3 Ethics/Ends‐Based Thinking (Teleology).md"
-    },
-    {
-      "basename": "1. Thinking Ethically",
-      "path": "ENEL301/Module 3 Ethics/1. Thinking Ethically.md"
-    },
-    {
-      "basename": "Working in Industry",
-      "path": "ENEL301/Law/Working in Industry.md"
-    },
-    {
-      "basename": "Marketing Concepts",
-      "path": "ENEL301/Law/Marketing Concepts.md"
-    },
-    {
-      "basename": "Law in NZ",
-      "path": "ENEL301/Law/Law in NZ.md"
-    },
-    {
-      "basename": "Intellectual Property",
-      "path": "ENEL301/Law/Intellectual Property.md"
-    },
-    {
-      "basename": "Pasted image 20230908111544",
-      "path": "ENEL301/Images/Pasted image 20230908111544.png"
-    },
-    {
-      "basename": "Pasted image 20230904123614",
-      "path": "ENEL301/Images/Pasted image 20230904123614.png"
-    },
-    {
-      "basename": "Pasted image 20230904122305",
-      "path": "ENEL301/Images/Pasted image 20230904122305.png"
-    },
-    {
-      "basename": "Pasted image 20230804094026",
-      "path": "ENEL301/Images/Pasted image 20230804094026.png"
-    },
-    {
-      "basename": "Pasted image 20230804110258",
-      "path": "ENEL301/Images/Pasted image 20230804110258.png"
-    },
-    {
-      "basename": "Pasted image 20230804100712",
-      "path": "ENEL301/Images/Pasted image 20230804100712.png"
-    },
-    {
-      "basename": "Pasted image 20230804095918",
-      "path": "ENEL301/Images/Pasted image 20230804095918.png"
-    },
-    {
-      "basename": "Pasted image 20230804095601",
-      "path": "ENEL301/Images/Pasted image 20230804095601.png"
-    },
-    {
-      "basename": "Pasted image 20230804094225",
-      "path": "ENEL301/Images/Pasted image 20230804094225.png"
-    },
-    {
       "basename": "Pasted image 20230812114737",
       "path": "Cosc367/Pasted image 20230812114737.png"
-    },
-    {
-      "basename": "People in Organisations",
-      "path": "ENEL301/Module 2 Management/People in Organisations.md"
-    },
-    {
-      "basename": "Organising",
-      "path": "ENEL301/Module 2 Management/Organising.md"
-    },
-    {
-      "basename": "Classical Approaches to Management",
-      "path": "ENEL301/Module 1 Professional/Classical Approaches to Management.md"
-    },
-    {
-      "basename": "Intro to Management for Engineers",
-      "path": "ENEL301/Module 1 Professional/Intro to Management for Engineers.md"
     },
     {
       "basename": "Searching the State Space",
@@ -149,14 +37,6 @@
       "path": "Cosc367/Lecture 1/General Graphs.md"
     },
     {
-      "basename": "Pasted image 20230726082714",
-      "path": "ENEL301/Module 2 Management/Pasted image 20230726082714.png"
-    },
-    {
-      "basename": "Pasted image 20230726082926",
-      "path": "ENEL301/Module 2 Management/Pasted image 20230726082926.png"
-    },
-    {
       "basename": "BFS",
       "path": "Cosc367/Lecture 1/BFS.md"
     },
@@ -183,10 +63,6 @@
     {
       "basename": "Classical Approaches to Management",
       "path": "Classical Approaches to Management.md"
-    },
-    {
-      "basename": "SENG368 - Humans and Computers",
-      "path": "SENG368/SENG368 - Humans and Computers.md"
     },
     {
       "basename": "COSC367  - AI",
