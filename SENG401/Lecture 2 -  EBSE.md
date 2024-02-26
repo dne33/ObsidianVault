@@ -9,7 +9,7 @@
 
 ## How to produce evidence?
 Empirical studies can be:
-- Quantitative:
+- Quantitative
 	- Does a cause-effect relationship exists
 	- Is there an associations between factors
 - Qualitative
