@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COSC428/Lecture 1 - Intro.md",
+                "file": "SENG401/Lecture 2 -  EBSE.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COSC428/Lecture 1 - Intro.md",
+                "file": "SENG401/Lecture 2 -  EBSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COSC428/Lecture 1 - Intro.md",
+                "file": "SENG401/Lecture 2 -  EBSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COSC428/Lecture 1 - Intro.md"
+                "file": "SENG401/Lecture 2 -  EBSE.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   "active": "c5243bfbceadfdcd",
   "lastOpenFiles": [
     "COSC428/Lecture 1 - Intro.md",
+    "SENG401/Lecture 2 -  EBSE.md",
     "COSC428",
     "ENEL301/Module 4 EEA/Cash Flows.md",
     "SENG401/Lecture 1 - Intro.md",
@@ -243,7 +244,6 @@
     "Cosc367/Lecture 2/A* Search Strategy.md",
     "ObsidianVault",
     "csse/users/dne33/Documents/Obsidian Vault/Clone",
-    "csse/users/dne33/Documents/Obsidian Vault",
-    "Cosc367/Lecture 1/LCFS.md"
+    "csse/users/dne33/Documents/Obsidian Vault"
   ]
 }
