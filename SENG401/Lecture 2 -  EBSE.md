@@ -8,6 +8,7 @@
 - Surveys or literature reviews
 
 ## How to produce evidence?
+Empirical studies can be:
 - Quantitative:
 	- Does a cause-effect relationship exists
 	- Is there an associations between factors
@@ -16,4 +17,15 @@
 - Observational
 	- Based on measurements or surveys of a sample without trying to affect them
 - Experimental
-	- Sub-groups with on baseline and a 'treatment' f
+	- Sub-groups with on baseline and a 'treatment' for other groups
+- Systematic literature reviews
+	- Thorough analysis of literature
+- Systematic mapping study
+	- Lightweight analysis of literature
+## Limitations of empirical methods
+- Internal
+	- Factors that may affect the validity of the causal relationship between treatment and outcome
+- External
+	- Are the results generalisable to the intended population of interest
+- Construct
+	- How well the outcomes of the study are linked to the concepts or theory behind the study
