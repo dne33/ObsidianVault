@@ -21,4 +21,6 @@ It provides a structured approach for assessing and improving an organization's 
 1. Define expected work products
 2. Define specific goals satisfaction criteria
 3. Apply capability level assessment
-
+##### Maturity Level
+1. Initial
+2. Managed: Processes areas with level 2 are assessed at level 2 or higher
