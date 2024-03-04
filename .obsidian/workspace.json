@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COSC428/Lecture 1 - Intro.md",
+                "file": "COSC428/Lecture 2 - Perception and colour.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COSC428/Lecture 1 - Intro.md",
+                "file": "COSC428/Lecture 2 - Perception and colour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COSC428/Lecture 1 - Intro.md",
+                "file": "COSC428/Lecture 2 - Perception and colour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COSC428/Lecture 1 - Intro.md"
+                "file": "COSC428/Lecture 2 - Perception and colour.md"
               }
             }
           },
@@ -211,9 +211,10 @@
   },
   "active": "ea4b5a49dcdc4007",
   "lastOpenFiles": [
+    "COSC428/Lecture 1 - Intro.md",
+    "COSC428/Lecture 2 - Perception and colour.md",
     "SENG401/Lecture 3 - Quality Assurance.md",
     "Pasted image 20240304141239.png",
-    "COSC428/Lecture 1 - Intro.md",
     "SENG401/Lecture 2 -  EBSE.md",
     "COSC428",
     "ENEL301/Module 4 EEA/Cash Flows.md",
