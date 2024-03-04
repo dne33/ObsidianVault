@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COSC428/Lecture 2 - Perception and colour.md",
+                "file": "COSC428/Lecture 3 - Cameras, lenses and sensors.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COSC428/Lecture 2 - Perception and colour.md",
+                "file": "COSC428/Lecture 3 - Cameras, lenses and sensors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COSC428/Lecture 2 - Perception and colour.md",
+                "file": "COSC428/Lecture 3 - Cameras, lenses and sensors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COSC428/Lecture 2 - Perception and colour.md"
+                "file": "COSC428/Lecture 3 - Cameras, lenses and sensors.md"
               }
             }
           },
@@ -211,8 +211,9 @@
   },
   "active": "ea4b5a49dcdc4007",
   "lastOpenFiles": [
-    "COSC428/Lecture 1 - Intro.md",
     "COSC428/Lecture 2 - Perception and colour.md",
+    "COSC428/Lecture 3 - Cameras, lenses and sensors.md",
+    "COSC428/Lecture 1 - Intro.md",
     "SENG401/Lecture 3 - Quality Assurance.md",
     "Pasted image 20240304141239.png",
     "SENG401/Lecture 2 -  EBSE.md",
@@ -253,7 +254,6 @@
     "ENEL301/Module 2 Management/Organising.md",
     "ENEL301/Module 1 Professional/Classical Approaches to Management.md",
     "ENEL301/Module 3 Ethics",
-    "ENEL301/Module 1 Professional/Intro to Management for Engineers.md",
     "ObsidianVault",
     "csse/users/dne33/Documents/Obsidian Vault/Clone",
     "csse/users/dne33/Documents/Obsidian Vault"
