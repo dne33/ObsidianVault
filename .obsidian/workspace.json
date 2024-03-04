@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea4b5a49dcdc4007",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +207,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c5243bfbceadfdcd",
+  "active": "ea4b5a49dcdc4007",
   "lastOpenFiles": [
     "COSC428/Lecture 1 - Intro.md",
     "SENG401/Lecture 2 -  EBSE.md",
