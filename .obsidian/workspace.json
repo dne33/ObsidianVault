@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COSC428/Lecture 3 - Cameras, lenses and sensors.md",
+                "file": "SENG401/Lecture 4 - Validation and Verification.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COSC428/Lecture 3 - Cameras, lenses and sensors.md",
+                "file": "SENG401/Lecture 4 - Validation and Verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COSC428/Lecture 3 - Cameras, lenses and sensors.md",
+                "file": "SENG401/Lecture 4 - Validation and Verification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COSC428/Lecture 3 - Cameras, lenses and sensors.md"
+                "file": "SENG401/Lecture 4 - Validation and Verification.md"
               }
             }
           },
@@ -211,8 +211,9 @@
   },
   "active": "ea4b5a49dcdc4007",
   "lastOpenFiles": [
-    "COSC428/Lecture 2 - Perception and colour.md",
     "COSC428/Lecture 3 - Cameras, lenses and sensors.md",
+    "SENG401/Lecture 4 - Validation and Verification.md",
+    "COSC428/Lecture 2 - Perception and colour.md",
     "COSC428/Lecture 1 - Intro.md",
     "SENG401/Lecture 3 - Quality Assurance.md",
     "Pasted image 20240304141239.png",
@@ -252,7 +253,6 @@
     "ENEL301/Images/Pasted image 20230804095601.png",
     "ENEL301/Module 2 Management/People in Organisations.md",
     "ENEL301/Module 2 Management/Organising.md",
-    "ENEL301/Module 1 Professional/Classical Approaches to Management.md",
     "ENEL301/Module 3 Ethics",
     "ObsidianVault",
     "csse/users/dne33/Documents/Obsidian Vault/Clone",
