@@ -63,5 +63,6 @@ S<sub>H, D</sub> = {h ∈ H : consistent(h, D)∧∀h ′ ∈ H : (consistent(h 
 ^ There is no other hypothesis in H that is strictly less general than the current h 
 and the set of most general hypotheses in the version space: 
 G<sub>H, D</sub> = {h ∈ H : consistent(h, D)∧∀h ′ ∈ H : (consistent(h ′ , D) ⇒ ¬(h <<sub>/g</sub> h ′ ))} 
-Theorem 1. The version space V SH,D can be specified with SH,D and GH,D:
+^ Every hypothesis in H is strictly less general than the current h
+Theorem 1. The version space V S<sub>H, D</sub> can be specified with S<sub>H, D</sub>and G<sub>H, D</sub>:
 ∀h ∈ H : (h ∈ V S<sub>H, D</sub> ⇔ ∃h<sub>s</sub> ∈ S<sub>H, D</sub>, ∃h<sub>g</sub> ∈ G<sub>H, D</sub> : hs ≤<sub>/g</sub> h ≤<sub>/g</sub> hg)
