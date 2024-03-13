@@ -45,4 +45,9 @@ Decode takes an element in R and gives us a hypothesis (function that acts as a 
 
 often there is no bijection between H and R  (No 1:1 mapping between representation and hypothesis)
 
+Elements of Hypothesis are rarely generated explicitly; Usually generated on the fly
+The point of the Representation domain.
 
+Give representation (R) for the following hypothesis classes:
+- H is the set of perceptrons over <sub>fancy</sub>R<sup>d</sup>
+	- R = <sub>fancy</sub>R<sup>d + 1</sup>
