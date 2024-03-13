@@ -39,5 +39,6 @@ A function is consistent provided for all of x, y in labeled data function appli
 
 ## Representation
 Often elements of H have the same type and encoding. If R is the set of all codes for H there is a function to map a code to a hypothesis.
-Decode R -> H
+Decode : R -> H
+R = representation domain 
 often there is no bijection between H and R  
