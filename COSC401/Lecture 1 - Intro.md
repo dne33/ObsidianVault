@@ -50,4 +50,8 @@ The point of the Representation domain.
 
 Give representation (R) for the following hypothesis classes:
 - H is the set of perceptrons over <sub>fancy</sub>R<sup>d</sup>
-	- R = <sub>fancy</sub>R<sup>d + 1</sup>
+	- R = <sub>fancy</sub>R<sup>d + 1</sup> If it were just d, the decision bound would pass through the origin
+## The version space
+The version space is defined as
+	V SH,D = {h ∈ H : consistent(h, D)}
+	Every hypothesis 
