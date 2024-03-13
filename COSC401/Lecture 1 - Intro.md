@@ -57,9 +57,11 @@ The version space is defined as
 	Every hypothesis in H which is consistent with our data
 For unseen input where x not in Data, the elements of VS can have diff predictions. 
 ### Specifying VS with it's boundaries
-We define two sets. The set of most specific hypothesis within VS
+We define two sets.
+The set of most specific hypothesis within VS:
 S<sub>H, D</sub> = {h ∈ H : consistent(h, D)∧∀h ′ ∈ H : (consistent(h ′ , D) ⇒ ¬(h ′ <<sub>/g</sub> h))} 
+^ There is no other hypothesis in H that is strictly less general than the current h 
 and the set of most general hypotheses in the version space: 
 G<sub>H, D</sub> = {h ∈ H : consistent(h, D)∧∀h ′ ∈ H : (consistent(h ′ , D) ⇒ ¬(h <<sub>/g</sub> h ′ ))} 
 Theorem 1. The version space V SH,D can be specified with SH,D and GH,D:
-∀h ∈ H : (h ∈ V S<sub>H, D</sub> ⇔ ∃hs ∈ S<sub>H, D</sub>, ∃h<sub>g</sub> ∈ G<sub>H, D</sub> : hs ≤<sub>/g</sub> h ≤<sub>/g</sub> hg)
+∀h ∈ H : (h ∈ V S<sub>H, D</sub> ⇔ ∃h<sub>s</sub> ∈ S<sub>H, D</sub>, ∃h<sub>g</sub> ∈ G<sub>H, D</sub> : hs ≤<sub>/g</sub> h ≤<sub>/g</sub> hg)
